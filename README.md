@@ -10,4 +10,6 @@
 
 - Dijikstra Algorithm
 - A* Algorithm
+- BFS
+- DFS
 
